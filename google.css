@@ -1,0 +1,16 @@
+ img{
+     height: 250px;
+     width: 400px;
+ }
+ main{
+  position: absolute;
+  left: 40%;
+  right: 50%;
+  bottom: 50%;
+  top: 20%;  
+ }
+ #srch{
+     width: 400px;
+     border-radius: 12%;
+ }
+ 
